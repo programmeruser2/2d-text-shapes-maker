@@ -2,7 +2,7 @@
 
 Width and length are defined here: https://www.merriam-webster.com/dictionary/width
 
-#Functions:
+# Functions:
 
 rec(width, length) - draw a bordered rectangle (with unicode gray shades such as ░▒▓) with the given diemensions
 
