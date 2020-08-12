@@ -8,4 +8,4 @@ rec(width, length) - draw a bordered rectangle (with unicode gray shades such as
 
 rec(width, length) - draw a filled rectangle (with unicode gray shades such as ░▒▓) with the given diemensions
 
-isos_triangle(legs) - draw an isosceles triangle with the given leg length. Base measurement is not one of the parameters since the symbols /, "\", and _ are used, and the angled symbols / and \ are at a fixed angle.
+isos_triangle(legs) - draw an isosceles triangle with the given leg length. Base measurement is not one of the parameters since the symbols /, r"\"", and _ are used, and the angled symbols / and \ are at a fixed angle.
