@@ -1,6 +1,5 @@
 # 2d-text-shapes-library
 
--------------------------------
 Width and length are defined here: https://www.merriam-webster.com/dictionary/width
 
 #Functions:
